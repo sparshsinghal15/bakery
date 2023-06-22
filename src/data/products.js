@@ -1,0 +1,51 @@
+export const products = [
+  {
+    title: "Black Forest",
+    description: "",
+    added_to_cart: false,
+    image: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    price: 10,
+  },
+  {
+    title: "Black Forest",
+    description: "",
+    added_to_cart: false,
+    image: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    price: 10,
+  },
+  {
+    title: "Black Forest",
+    description: "",
+    added_to_cart: false,
+    image: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    price: 10,
+  },
+  {
+    title: "Black Forest",
+    description: "",
+    added_to_cart: false,
+    image: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    price: 10,
+  },
+  {
+    title: "Black Forest",
+    description: "",
+    added_to_cart: false,
+    image: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    price: 10,
+  },
+  {
+    title: "Black Forest",
+    description: "",
+    added_to_cart: false,
+    image: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    price: 10,
+  },
+  {
+    title: "Black Forest",
+    description: "",
+    added_to_cart: false,
+    image: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    price: 10,
+  },
+];
